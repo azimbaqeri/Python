@@ -22,7 +22,7 @@ Il s'agit d'une application simple de liste de tâches construite en utilisant P
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/azimbaqeri/Python.git
 
 
 Bien sûr ! Voici le contenu du fichier README en français :
